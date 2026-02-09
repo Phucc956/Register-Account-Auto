@@ -13,7 +13,7 @@ This one is simple but super handy if you need to stock up on Garena accounts (f
    ```bash
    pip install requests colorama
    ```
-2. Run the script: `python a.py`
+2. Run the script: `python Reg Acc.py`
 3. Enter the number of accounts you need, let it do its thing, and then check `accgarena.txt` for your new logins.
 
 ---
